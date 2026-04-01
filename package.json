@@ -1,0 +1,9 @@
+{
+  "name": "tareas-v1",
+  "version": "1.0.0",
+  "description": "Factory Supervision Application",
+  "main": "factory_supervision_app.js",
+  "scripts": {
+    "start": "node factory_supervision_app.js"
+  }
+}
